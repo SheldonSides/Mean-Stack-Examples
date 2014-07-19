@@ -1,6 +1,6 @@
 {
-  "name": "t2",
-  "version": "0.0.1",
+  "name": "TestNode",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node app.js"
@@ -8,5 +8,18 @@
   "dependencies": {
     "express": "3.2.6",
     "jade": "*"
-  }
+  },
+  "description": "Node Examples",
+  "main": "express/session.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://SheldonSides@jtsnode.scm.azurewebsites.net:443/jtsnode.git"
+  },
+  "author": "Sheldon L. Sides",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://SheldonSides@jtsnode.scm.azurewebsites.net:443/jtsnode.git"
+  },
+  "homepage": "https://SheldonSides@jtsnode.scm.azurewebsites.net:443/jtsnode.git"
 }
