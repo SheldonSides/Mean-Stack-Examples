@@ -14,12 +14,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://SheldonSides@jtsnode.scm.azurewebsites.net:443/jtsnode.git"
+    "url": "https://github.com/SheldonSides/Node.git"
   },
   "author": "Sheldon L. Sides",
   "license": "ISC",
   "bugs": {
-    "url": "https://SheldonSides@jtsnode.scm.azurewebsites.net:443/jtsnode.git"
+    "url": "https://github.com/SheldonSides/Node.git"
   },
-  "homepage": "https://SheldonSides@jtsnode.scm.azurewebsites.net:443/jtsnode.git"
+  "homepage": "https://github.com/SheldonSides/Node.git"
 }
